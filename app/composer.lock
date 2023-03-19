@@ -1067,12 +1067,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "0b3fae2e8dd094433a760b09eb4366bb139fcf88"
+                "reference": "7d15f7eef442633cff108f83d9fe43d8c3b8b76f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/0b3fae2e8dd094433a760b09eb4366bb139fcf88",
-                "reference": "0b3fae2e8dd094433a760b09eb4366bb139fcf88",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/7d15f7eef442633cff108f83d9fe43d8c3b8b76f",
+                "reference": "7d15f7eef442633cff108f83d9fe43d8c3b8b76f",
                 "shasum": ""
             },
             "require": {
@@ -1171,7 +1171,7 @@
                 "league/flysystem-read-only": "^3.3",
                 "league/flysystem-sftp-v3": "^3.0",
                 "mockery/mockery": "^1.5.1",
-                "orchestra/testbench-core": "^8.0",
+                "orchestra/testbench-core": "^8.1",
                 "pda/pheanstalk": "^4.0",
                 "phpstan/phpdoc-parser": "^1.15",
                 "phpstan/phpstan": "^1.4.7",
@@ -1260,7 +1260,7 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2023-03-14T20:19:50+00:00"
+            "time": "2023-03-18T11:34:02+00:00"
         },
         {
             "name": "laravel/serializable-closure",
@@ -1518,12 +1518,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/thephpleague/flysystem.git",
-                "reference": "b01bb3920e90c9cc6c85ee08af8e7b98e1249e47"
+                "reference": "ae7879d0a3a103250011824a3499660cf499c5eb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/b01bb3920e90c9cc6c85ee08af8e7b98e1249e47",
-                "reference": "b01bb3920e90c9cc6c85ee08af8e7b98e1249e47",
+                "url": "https://api.github.com/repos/thephpleague/flysystem/zipball/ae7879d0a3a103250011824a3499660cf499c5eb",
+                "reference": "ae7879d0a3a103250011824a3499660cf499c5eb",
                 "shasum": ""
             },
             "require": {
@@ -1596,13 +1596,9 @@
                 {
                     "url": "https://github.com/frankdejonge",
                     "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/league/flysystem",
-                    "type": "tidelift"
                 }
             ],
-            "time": "2023-03-10T10:13:17+00:00"
+            "time": "2023-03-16T14:38:57+00:00"
         },
         {
             "name": "league/mime-type-detection",
@@ -3154,12 +3150,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/error-handler.git",
-                "reference": "4c84e2c9ae962f63d2e62d6be3313598cec4ec2d"
+                "reference": "cb1f52be0590b45f8d83550b945cad25d736644e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/error-handler/zipball/4c84e2c9ae962f63d2e62d6be3313598cec4ec2d",
-                "reference": "4c84e2c9ae962f63d2e62d6be3313598cec4ec2d",
+                "url": "https://api.github.com/repos/symfony/error-handler/zipball/cb1f52be0590b45f8d83550b945cad25d736644e",
+                "reference": "cb1f52be0590b45f8d83550b945cad25d736644e",
                 "shasum": ""
             },
             "require": {
@@ -3220,7 +3216,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2023-03-13T19:20:03+00:00"
+            "time": "2023-03-16T16:33:14+00:00"
         },
         {
             "name": "symfony/event-dispatcher",

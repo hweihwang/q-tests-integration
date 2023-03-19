@@ -15,6 +15,8 @@ use TestAssignment\Book\Transports\Inertia\CreateBookPageHandler;
 use TestAssignment\Book\Transports\Inertia\DeleteBookHandler;
 
 Route::group(['middleware' => ['web']], static function () {
+    Route::get('/', static fn() => redirect('/authors'));
+
     Route::get('/authors', GetListAuthorsHandler::class);
     Route::post('/authors', CreateAuthorHandler::class);
     Route::get('/authors/create', CreateAuthorPageHandler::class);
